@@ -1,0 +1,13 @@
+.DS_Store
+.device/
+.impeccable/
+.gradle/
+**/build/
+android/local.properties
+*.jks
+*.keystore
+*.apk
+.env*
+dist/
+android/app/src/main/assets/delta/assets/*.png
+android/app/src/main/assets/delta/assets/*.json
